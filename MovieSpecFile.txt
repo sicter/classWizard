@@ -1,0 +1,11 @@
+Description:
+ex. This is a program which.
+*End*
+ClassName:
+ex. myClass
+Private Data Objects:
+ex. int myInt (write as: "type name")
+*End*
+Operator Overloads:
+ex. << 
+*End*
